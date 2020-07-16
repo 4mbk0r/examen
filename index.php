@@ -18,7 +18,7 @@
     <body>
         <h1>Login o Registro</h1>
         <a href="login.php"> login</a> o 
-        <a href="registro.php"> Registro </a> 
+        <a href="registro.php"> Pregunta 2 </a> 
     </body>
 
 
